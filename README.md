@@ -1,41 +1,34 @@
-# 👨‍💻 Hello, world! I'm Basquerotto
+# Olá! Sou o Igor Basquerotto 👋
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/igorbasquerotto" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/codewithbasquerotto" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</div>
+**Estudante de Análise e Desenvolvimento de Sistemas na Fatec Lins.**
 
-<br>
+Tenho interesse em desenvolvimento de software, especialmente em back-end com Java e na criação de aplicações web. Também me interesso por design de interfaces e pela experiência de quem usa um sistema.
 
-### 🚀 About Me
-I am a developer with a strong background in UI and Web Design, currently on a **180-Day Intensive Journey** to become a globally competitive **Full-Stack Java & Cloud Software Engineer**. 
+Ao longo da graduação e dos meus estudos, venho colocando a teoria em prática em projetos, desde a modelagem dos dados até a construção das interfaces e das regras de negócio.
 
-I bridge the gap between pixel-perfect interfaces and highly scalable, robust backend architectures. 
+## Conhecimentos em desenvolvimento
 
-* ⚔️ **Current Challenge:** 180 Days of Code (Java Core, Spring Boot, Microservices, and Cloud).
-* 🏗️ **Building in Public:** Developing my master SaaS product, **Basquerotto {dev}** — a gamified study and project management tool for developers.
-* 🎯 **Focus:** Clean Code, SOLID principles, and Agile methodologies.
-* 🌍 **Goal:** International tech market (US/Europe).
+Estas são as linguagens e tecnologias com que tenho contato nos estudos e projetos:
 
----
+| Área | Linguagens e tecnologias |
+| --- | --- |
+| Linguagens | Java, JavaScript, TypeScript e SQL |
+| Desenvolvimento web | HTML, CSS, React e Angular |
+| Back-end | Java e Spring Boot |
+| Banco de dados | PostgreSQL |
+| Versionamento | Git e GitHub |
 
-### 💻 Tech Stack & Arsenal
+## Meus interesses
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,aws,react,ts,angular&perline=15" />
-</div>
+- Desenvolvimento back-end, APIs e integração com bancos de dados.
+- Programação orientada a objetos e boas práticas de código.
+- Engenharia de software, modelagem de sistemas e organização de projetos.
+- Desenvolvimento web, UI e usabilidade.
 
-<br>
+## Aprendizado atual
 
+Estou aprofundando meus conhecimentos em Java e Spring Boot, praticando desenvolvimento web e buscando escrever código mais claro, organizado e fácil de manter. Gosto de entender as decisões por trás de uma solução e aplicar o que aprendo em problemas reais.
 
+## Vamos conversar?
 
-<br>
-
----
-<div align="center">
-  <em>"Transforming discipline into code, one commit at a time."</em> ☕🚀
-</div>
+[LinkedIn](https://www.linkedin.com/in/igorbasquerotto) · [Instagram](https://www.instagram.com/codewithbasquerotto)
